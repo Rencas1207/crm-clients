@@ -1,8 +1,10 @@
 import { useNavigate, Form as FormPost } from "react-router-dom"
 import Form from "../components/Form";
 
-export function action() {
-   console.log('submit al form...')
+export async function action({ request }) {
+   const formData = await request.formData();
+   const datos = Object.fromEntries(formData);
+   console.log(datos);
    return { ok: true };
 }
 

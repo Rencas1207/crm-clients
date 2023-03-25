@@ -34,6 +34,22 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Suscipit qui illum ",
+      "empresa": "Elit culpa assumen",
+      "email": "cuzup@mailinator.com",
+      "telefono": "+1 (739) 615-5219",
+      "notas": "Eos esse voluptate",
+      "id": 6
+    },
+    {
+      "nombre": "Animi voluptas pari",
+      "empresa": "Iste qui aut itaque ",
+      "email": "bewezuco@mailinator.com",
+      "telefono": "+1 (454) 618-6155",
+      "notas": "Quaerat laborum Tem",
+      "id": 7
     }
   ]
 }
